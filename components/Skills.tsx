@@ -8,9 +8,9 @@ const skillCategories = [
     name: "Technical Skills",
     icon: <Code2 className="w-6 h-6" />,
     skills: [
-      "Matlab (6+ years) - Advanced Motion Planning & Control",
-      "Python (5+ years) - Robotics & Computer Vision",
-      "C/C++ (3+ years) - Real-time Systems",
+      "Matlab - Advanced Motion Planning & Control",
+      "Python - Robotics & Computer Vision",
+      "C/C++ - Real-time Systems",
       "ROS & Linux - Robot Operating System"
     ],
     gradient: "from-blue-500 to-cyan-500"
@@ -63,7 +63,7 @@ const skillCategories = [
     name: "Soft Skills",
     icon: <Users className="w-6 h-6" />,
     skills: [
-      "Teaching & Mentoring (5+ years)",
+      "Teaching & Mentoring",
       "Project Leadership",
       "Cross-functional Collaboration",
       "Problem-solving"
