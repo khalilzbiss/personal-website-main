@@ -53,7 +53,7 @@ const skillCategories = [
     icon: <Globe className="w-6 h-6" />,
     skills: [
       "English (Professional)",
-      "French (Native)",
+      "French (fluent)",
       "Arabic (Native)",
       "Technical Writing"
     ],
