@@ -11,7 +11,7 @@ const skillCategories = [
       "Matlab - Advanced Motion Planning & Control",
       "Python - Robotics & Computer Vision",
       "C/C++ - Real-time Systems",
-      "ROS & Linux - Robot Operating System"
+      "ROS2 & Linux - Robot Operating System"
     ],
     gradient: "from-blue-500 to-cyan-500"
   },
@@ -31,7 +31,7 @@ const skillCategories = [
     icon: <Cpu className="w-6 h-6" />,
     skills: [
       "CoppeliaSim-VREP Simulation",
-      "Git Version Control",
+      "Gazebo Simulation",
       "IMU Sensor Integration",
       "Algorithm Development"
     ],
